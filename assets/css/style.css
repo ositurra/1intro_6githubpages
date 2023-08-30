@@ -1,0 +1,25 @@
+.card p{
+    width: 15rem;
+    height: 10rem;
+}
+
+.inicio {
+    display: flex;
+    justify-content: space-evenly;  
+}
+
+.inicio img{
+    width: 20rem;
+}
+
+footer{
+    text-align: center;
+}
+
+section{
+    padding: 20px;
+}
+
+.col-sm{
+    padding: 15px;
+}
